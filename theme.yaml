@@ -1,15 +1,15 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-timeplus
+  name: theme-timeplusbook
 spec:
-  displayName: TimePlus
+  displayName: TimePlusBook
   author:
-    name: 困困鱼
-    website: "https://0206.ink"
+    name: 小书酱
+    website: "http://epochy.cn"
   description: 移植自zhheo-TimePlus适配Halo2.x的TimePlus主题
   logo: "https://0206.ink/upload/cf44650dc27ca55b28bb0f8d3e48a93.png"
-  website: "https://0206.ink?preview-theme=theme-timeplus"
+  website: "http://epochy.cn"
   repo: "https://github.com/chengzhongxue/halo-theme-timeplus"
   settingName: "theme-timeplus-setting"
   configMapName: "theme-timeplus-configMap"
